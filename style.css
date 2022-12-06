@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+button {
+  font-size: 4vw;
+  width: 20%;
+  height: 10vw;
+}
+input {
+  font-size: 4vw;
+  width: 60%;
+  height: 10vw;
+}
+
